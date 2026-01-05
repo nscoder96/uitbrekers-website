@@ -261,6 +261,10 @@ img {
     color: var(--primary);
 }
 
+.nav-links .btn-primary {
+    color: var(--white);
+}
+
 .hamburger {
     display: none;
     cursor: pointer;
